@@ -10,7 +10,7 @@ console.log(numeros[2]);
 
 //acessando um elemento especifico do array
 let animais = ["Cachorro", "Gato", "Pássaro", "Peixe"];
-console.log(animais[4]);
+console.log(animais[3]);
 
 //alterando um elemento do array 
 let times = ["Flamingo", "Palmeiras", "São paulo", "Corintias"];
@@ -33,7 +33,7 @@ console.log(carros);
 
 //removendo o primeiro elemento do array
 let cidades = ["são paulo", "rio de janeiro", "belo horizonte", "curitiba"];
-cores.shift();
+cidades.shift();
 console.log(cidades);
 
 //adicioando um elemento no inicio do array
