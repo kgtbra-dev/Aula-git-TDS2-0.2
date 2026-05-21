@@ -41,4 +41,8 @@ let paises = ["brasil", "argentina", "chile"];
 paises.unshift("uruguai");
 console.log(paises);
 
-//
+//mostrandotodos os elementos do array com for
+let futris = [ "Maça", "Banana", "Laranja", "Uva"];
+for (let i = 0; i < frutis.lenght; i++) {
+    console.log(frutis[i]);
+}
